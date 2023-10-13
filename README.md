@@ -16,6 +16,8 @@ This project was a significant learning journey, enhancing my skills in data ana
 
 🔗 Connect with me to learn more about my projects and how I can contribute to your team's success.
 
+Project Live Dashboard Link : https://www.novypro.com/project/business-insights-360---atliq-hardware
+
 #DataAnalytics #BusinessAnalytics #PowerBI #DataInsights #BusinessIntelligence #DataVisualization #DataDrivenDecisions
 
 ---
